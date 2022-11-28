@@ -18,7 +18,7 @@ TF_AAI_2022_2_GRUPO7_V1.ipynb -> Stephano Morales
 
 ### Resultados:
 
-![image](https://user-images.githubusercontent.com/64936813/204183884-acaf7b07-a40c-46a2-a522-227c56ab076b.png)
+![image](https://user-images.githubusercontent.com/64936813/204187776-8809dbb5-0db0-4b24-ac35-5d2ab72809a5.png)
 > Nota: Tiempo medido en segundos
 
 Adicionalmente: Se comparte la tabla de resultados obtenidos sin preprocesar: \
